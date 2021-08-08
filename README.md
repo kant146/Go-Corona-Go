@@ -6,6 +6,7 @@ see the [source](https://cs.chromium.org/chromium/src/components/neterror/resour
 
 
 [go and enjoy! :smile: ](http://kant146.github.io/Go-Corona-Go/)
+Hack code  write this in inspact :   Runner.prototype.gameOver = function (){}
 
 ### Hi there,  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
